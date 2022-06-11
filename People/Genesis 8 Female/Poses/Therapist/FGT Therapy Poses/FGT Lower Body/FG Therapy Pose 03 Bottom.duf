@@ -1,0 +1,430 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%208%20Female/Poses/Go%20To%20Pose/FG%20Therapy%20Pose%2003.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "Godin i3D",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2018-05-27T20:17:28Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection/lSmallToe4_2:?rotation/x/value",
+				"keys" : [ [ 0, -2.175139 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?rotation/x/value",
+				"keys" : [ [ 0, -2.240961 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?rotation/y/value",
+				"keys" : [ [ 0, -0.1394363 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe4:?rotation/z/value",
+				"keys" : [ [ 0, -2.904132 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3_2:?rotation/x/value",
+				"keys" : [ [ 0, -1.948766 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?rotation/x/value",
+				"keys" : [ [ 0, -2.022242 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?rotation/y/value",
+				"keys" : [ [ 0, 0.056278 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe3:?rotation/z/value",
+				"keys" : [ [ 0, -3.059522 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2_2:?rotation/x/value",
+				"keys" : [ [ 0, -1.913702 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?rotation/x/value",
+				"keys" : [ [ 0, -1.992252 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?rotation/y/value",
+				"keys" : [ [ 0, 0.2737288 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe2:?rotation/z/value",
+				"keys" : [ [ 0, -3.063695 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1_2:?rotation/x/value",
+				"keys" : [ [ 0, -1.784051 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?rotation/x/value",
+				"keys" : [ [ 0, -1.86254 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?rotation/y/value",
+				"keys" : [ [ 0, 0.4720223 ] ]
+			},
+			{
+				"url" : "name://@selection/lSmallToe1:?rotation/z/value",
+				"keys" : [ [ 0, -3.117635 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe_2:?rotation/x/value",
+				"keys" : [ [ 0, -1.75955 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?rotation/x/value",
+				"keys" : [ [ 0, -1.838042 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?rotation/y/value",
+				"keys" : [ [ 0, 0.7226862 ] ]
+			},
+			{
+				"url" : "name://@selection/lBigToe:?rotation/z/value",
+				"keys" : [ [ 0, -3.080148 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?rotation/x/value",
+				"keys" : [ [ 0, -1.898719 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lToe:?rotation/z/value",
+				"keys" : [ [ 0, 2.258064 ] ]
+			},
+			{
+				"url" : "name://@selection/lMetatarsals:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMetatarsals:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lMetatarsals:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?rotation/x/value",
+				"keys" : [ [ 0, 23.82945 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?rotation/y/value",
+				"keys" : [ [ 0, -17.36744 ] ]
+			},
+			{
+				"url" : "name://@selection/lFoot:?rotation/z/value",
+				"keys" : [ [ 0, 6.854941 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?rotation/x/value",
+				"keys" : [ [ 0, 143.3716 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lShin:?rotation/z/value",
+				"keys" : [ [ 0, 1.801006 ] ]
+			},
+			{
+				"url" : "name://@selection/lThighTwist:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThighTwist:?rotation/y/value",
+				"keys" : [ [ 0, 70.22244 ] ]
+			},
+			{
+				"url" : "name://@selection/lThighTwist:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThighBend:?rotation/x/value",
+				"keys" : [ [ 0, -71.91716 ] ]
+			},
+			{
+				"url" : "name://@selection/lThighBend:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/lThighBend:?rotation/z/value",
+				"keys" : [ [ 0, 41.02859 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe4:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe3:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rSmallToe1:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe_2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe_2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe_2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rBigToe:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rToe:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMetatarsals:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMetatarsals:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMetatarsals:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?rotation/x/value",
+				"keys" : [ [ 0, 51.6379 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?rotation/y/value",
+				"keys" : [ [ 0, 19.21908 ] ]
+			},
+			{
+				"url" : "name://@selection/rFoot:?rotation/z/value",
+				"keys" : [ [ 0, -2.093119 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?rotation/x/value",
+				"keys" : [ [ 0, 115.4374 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rShin:?rotation/z/value",
+				"keys" : [ [ 0, -2.048197 ] ]
+			},
+			{
+				"url" : "name://@selection/rThighTwist:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThighTwist:?rotation/y/value",
+				"keys" : [ [ 0, -73.73254 ] ]
+			},
+			{
+				"url" : "name://@selection/rThighTwist:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThighBend:?rotation/x/value",
+				"keys" : [ [ 0, -78.02692 ] ]
+			},
+			{
+				"url" : "name://@selection/rThighBend:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThighBend:?rotation/z/value",
+				"keys" : [ [ 0, -0.6268201 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/pelvis:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?translation/y/value",
+				"keys" : [ [ 0, -41.91653 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?rotation/x/value",
+				"keys" : [ [ 0, 29.41329 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?rotation/y/value",
+				"keys" : [ [ 0, -179.5666 ] ]
+			},
+			{
+				"url" : "name://@selection/hip:?rotation/z/value",
+				"keys" : [ [ 0, -0.8541734 ] ]
+			}
+		]
+	}
+}

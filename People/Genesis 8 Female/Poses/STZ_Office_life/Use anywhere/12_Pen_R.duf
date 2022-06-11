@@ -1,0 +1,92 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%208%20Female/Poses/STZ_Office_life/12_Pen_R.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "santuziy78",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2020-02-17T14:39:07Z"
+	},
+	"scene" : {
+		"materials" : [
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection:?translation/x/value",
+				"keys" : [ [ 0, 20.65422 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/y/value",
+				"keys" : [ [ 0, -45.27981 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/z/value",
+				"keys" : [ [ 0, -0.3126769 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/x/value",
+				"keys" : [ [ 0, 24.46821 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/y/value",
+				"keys" : [ [ 0, 154.0748 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/z/value",
+				"keys" : [ [ 0, 37.62873 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/general/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Disable%20Transform/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Render%20Priority/value",
+				"keys" : [ [ 0, 3 ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Selectable/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Visible%20in%20Viewport/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Visible%20in%20Simulation/value",
+				"keys" : [ [ 0, true ] ]
+			}
+		]
+	}
+}

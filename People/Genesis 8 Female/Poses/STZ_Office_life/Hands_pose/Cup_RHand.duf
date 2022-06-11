@@ -1,0 +1,878 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%208%20Female/Poses/STZ_Office_life/Hands_pose/Cup_RHand.duf",
+		"type" : "preset_pose",
+		"contributor" : {
+			"author" : "santuziy78",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2020-02-17T12:27:30Z"
+	},
+	"scene" : {
+		"animations" : [
+			{
+				"url" : "name://@selection/rThumb3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?rotation/y/value",
+				"keys" : [ [ 0, 14.23722 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?scale/general/value",
+				"keys" : [ [ 0, 0.9999997 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?scale/y/value",
+				"keys" : [ [ 0, 0.9999993 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb3:?scale/z/value",
+				"keys" : [ [ 0, 0.9999992 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?rotation/y/value",
+				"keys" : [ [ 0, -4.757084 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?scale/general/value",
+				"keys" : [ [ 0, 0.9999996 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb2:?scale/z/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?rotation/x/value",
+				"keys" : [ [ 0, -5.10811 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?rotation/y/value",
+				"keys" : [ [ 0, -22.37128 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?rotation/z/value",
+				"keys" : [ [ 0, -0.5405238 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rThumb1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?rotation/z/value",
+				"keys" : [ [ 0, 60.41657 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?scale/general/value",
+				"keys" : [ [ 0, 0.9999984 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?scale/y/value",
+				"keys" : [ [ 0, 0.9999999 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex3:?scale/z/value",
+				"keys" : [ [ 0, 1.000002 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?rotation/z/value",
+				"keys" : [ [ 0, 92.21053 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?rotation/y/value",
+				"keys" : [ [ 0, -10.05668 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?rotation/z/value",
+				"keys" : [ [ 0, 45.78947 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rIndex1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?rotation/y/value",
+				"keys" : [ [ 0, -1.477733 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?scale/general/value",
+				"keys" : [ [ 0, 0.9999975 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?scale/y/value",
+				"keys" : [ [ 0, 1.000002 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal1:?scale/z/value",
+				"keys" : [ [ 0, 1.000001 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?rotation/z/value",
+				"keys" : [ [ 0, 48.46187 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?scale/general/value",
+				"keys" : [ [ 0, 1.000003 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?scale/y/value",
+				"keys" : [ [ 0, 0.9999962 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid3:?scale/z/value",
+				"keys" : [ [ 0, 0.9999946 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?rotation/z/value",
+				"keys" : [ [ 0, 89.36842 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?scale/general/value",
+				"keys" : [ [ 0, 0.9999997 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?scale/y/value",
+				"keys" : [ [ 0, 0.9999978 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid2:?scale/z/value",
+				"keys" : [ [ 0, 1.000001 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?rotation/y/value",
+				"keys" : [ [ 0, -3.546558 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?rotation/z/value",
+				"keys" : [ [ 0, 63.88664 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rMid1:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?rotation/z/value",
+				"keys" : [ [ 0, 46.77216 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?rotation/z/value",
+				"keys" : [ [ 0, 86.52631 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?rotation/y/value",
+				"keys" : [ [ 0, 5.878542 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?rotation/z/value",
+				"keys" : [ [ 0, 71.86235 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?scale/general/value",
+				"keys" : [ [ 0, 0.9999971 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?scale/y/value",
+				"keys" : [ [ 0, 0.9999984 ] ]
+			},
+			{
+				"url" : "name://@selection/rRing1:?scale/z/value",
+				"keys" : [ [ 0, 1.000003 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?rotation/z/value",
+				"keys" : [ [ 0, 56.48202 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky3:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?rotation/z/value",
+				"keys" : [ [ 0, 78.18037 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?scale/y/value",
+				"keys" : [ [ 0, 0.9999985 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky2:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?rotation/y/value",
+				"keys" : [ [ 0, 11.6038 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?rotation/z/value",
+				"keys" : [ [ 0, 79.23077 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?scale/y/value",
+				"keys" : [ [ 0, 0.9999986 ] ]
+			},
+			{
+				"url" : "name://@selection/rPinky1:?scale/z/value",
+				"keys" : [ [ 0, 0.9999995 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?rotation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?rotation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?rotation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rCarpal4:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?translation/x/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?translation/y/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?translation/z/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?rotation/x/value",
+				"keys" : [ [ 0, -7.975708 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?rotation/y/value",
+				"keys" : [ [ 0, 12.71694 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?rotation/z/value",
+				"keys" : [ [ 0, -18.86489 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?scale/x/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?scale/y/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection/rHand:?scale/z/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrThumbInOut:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrThumbGrasp:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrThumbFist:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrThumbBend:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrRingBend:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrPinkyBend:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrMidBend:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrIndexBend:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrHandSpread:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrHandGrasp:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrHandFist:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrHandChop:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrFingersInOut:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrFingersGrasp:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#pCTRLrFingersFist:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			}
+		]
+	}
+}

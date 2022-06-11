@@ -1,0 +1,124 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/People/Genesis%208%20Female/Poses/STZ_Office_life/18_Paper_sheet_L.duf",
+		"type" : "preset_properties",
+		"contributor" : {
+			"author" : "santuziy78",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2020-02-17T15:23:17Z"
+	},
+	"scene" : {
+		"materials" : [
+		],
+		"animations" : [
+			{
+				"url" : "name://@selection:?translation/x/value",
+				"keys" : [ [ 0, 83.82555 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/y/value",
+				"keys" : [ [ 0, -9.978569 ] ]
+			},
+			{
+				"url" : "name://@selection:?translation/z/value",
+				"keys" : [ [ 0, 75.49007 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/x/value",
+				"keys" : [ [ 0, 52.22316 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/y/value",
+				"keys" : [ [ 0, -178.6095 ] ]
+			},
+			{
+				"url" : "name://@selection:?rotation/z/value",
+				"keys" : [ [ 0, -125.4541 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/general/value",
+				"keys" : [ [ 0, 1 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/x/value",
+				"keys" : [ [ 0, 0.9999559 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/y/value",
+				"keys" : [ [ 0, 0.9999359 ] ]
+			},
+			{
+				"url" : "name://@selection:?scale/z/value",
+				"keys" : [ [ 0, 0.9999778 ] ]
+			},
+			{
+				"url" : "name://@selection#DownSide_Bend:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#LSide_Bend:?value/value",
+				"keys" : [ [ 0, -1 ] ]
+			},
+			{
+				"url" : "name://@selection#L_Down_Corner_Bend:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#L_Up_Corner_Bend:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#RSide_Bend:?value/value",
+				"keys" : [ [ 0, 0.26 ] ]
+			},
+			{
+				"url" : "name://@selection#R_Down_Corner_Bend:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection#R_Up_Corner_Bend:?value/value",
+				"keys" : [ [ 0, 0.82 ] ]
+			},
+			{
+				"url" : "name://@selection#UpSide_Bend:?value/value",
+				"keys" : [ [ 0, 0 ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Disable%20Transform/value",
+				"keys" : [ [ 0, false ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Visible/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Cast%20Shadows/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Render%20Priority/value",
+				"keys" : [ [ 0, 3 ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Renderable/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Selectable/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Visible%20in%20Viewport/value",
+				"keys" : [ [ 0, true ] ]
+			},
+			{
+				"url" : "name://@selection:?extra/studio_node_channels/channels/Visible%20in%20Simulation/value",
+				"keys" : [ [ 0, true ] ]
+			}
+		]
+	}
+}
