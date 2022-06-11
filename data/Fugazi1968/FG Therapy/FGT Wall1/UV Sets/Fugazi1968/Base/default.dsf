@@ -1,0 +1,49 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Fugazi1968/FG%20Therapy/FGT%20Wall1/UV%20Sets/Fugazi1968/Base/default.dsf",
+		"type" : "uv_set",
+		"contributor" : {
+			"author" : "Fugazi1968",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2018-05-21T03:18:51Z"
+	},
+	"uv_set_library" : [
+		{
+			"id" : "default",
+			"name" : "default",
+			"label" : "Default UVs",
+			"vertex_count" : 12,
+			"uvs" : {
+				"count" : 12,
+				"values" : [
+					[ 0.01, 0.506964 ],
+					[ 0.386942, 0.506964 ],
+					[ 0.0104584, 0.268681 ],
+					[ 0.38743, 0.268667 ],
+					[ 0.386534, 0.25916 ],
+					[ 0.0113886, 0.259172 ],
+					[ 0.0112879, 0.267855 ],
+					[ 0.0113742, 0.267696 ],
+					[ 0.386518, 0.267682 ],
+					[ 0.3866031, 0.267841 ],
+					[ 0.386543, 0.267771 ],
+					[ 0.0113488, 0.267785 ]
+				]
+			},
+			"polygon_vertex_indices" : [
+			]
+		}
+	],
+	"scene" : {
+		"uvs" : [
+			{
+				"id" : "default-1",
+				"url" : "#default"
+			}
+		]
+	}
+}

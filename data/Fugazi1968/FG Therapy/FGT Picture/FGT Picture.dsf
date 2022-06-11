@@ -1,0 +1,548 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Fugazi1968/FG%20Therapy/FGT%20Picture/FGT%20Picture.dsf",
+		"type" : "prop",
+		"contributor" : {
+			"author" : "Fugazi1968",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2018-05-21T03:18:39Z"
+	},
+	"geometry_library" : [
+		{
+			"id" : "FGT Picture-1",
+			"name" : "FGT Picture",
+			"type" : "polygon_mesh",
+			"vertices" : {
+				"count" : 64,
+				"values" : [
+					[ 248.507, 91.1794, -193.237 ],
+					[ 248.507, 153.673, -193.237 ],
+					[ 294.405, 153.673, -148.133 ],
+					[ 294.405, 91.1794, -148.133 ],
+					[ 248.323, 89.03439, -196.109 ],
+					[ 248.323, 155.818, -196.109 ],
+					[ 297.281, 155.818, -147.999 ],
+					[ 297.281, 89.03439, -147.999 ],
+					[ 246.889, 87.0235, -197.519 ],
+					[ 246.889, 157.829, -197.519 ],
+					[ 298.715, 157.829, -146.59 ],
+					[ 298.715, 87.0235, -146.59 ],
+					[ 293.653, 91.1794, -147.368 ],
+					[ 247.756, 91.1794, -192.472 ],
+					[ 293.653, 153.673, -147.368 ],
+					[ 247.756, 153.673, -192.472 ],
+					[ 244.963, 87.0235, -195.559 ],
+					[ 244.83, 88.1892, -193.761 ],
+					[ 244.83, 156.663, -193.761 ],
+					[ 244.963, 157.829, -195.559 ],
+					[ 294.993, 156.663, -144.466 ],
+					[ 296.789, 157.829, -144.629 ],
+					[ 294.993, 88.1892, -144.466 ],
+					[ 296.789, 87.0235, -144.629 ],
+					[ 244.614, 87.1167, -195.071 ],
+					[ 244.614, 157.735, -195.071 ],
+					[ 244.464, 87.3788, -194.544 ],
+					[ 244.464, 157.473, -194.544 ],
+					[ 244.541, 87.7602, -194.078 ],
+					[ 244.541, 157.092, -194.078 ],
+					[ 296.307, 157.735, -144.272 ],
+					[ 295.783, 157.473, -144.113 ],
+					[ 295.316, 157.092, -144.182 ],
+					[ 296.307, 87.1167, -144.272 ],
+					[ 295.783, 87.3788, -144.113 ],
+					[ 295.316, 87.7602, -144.182 ],
+					[ 246.628, 91.1794, -191.324 ],
+					[ 245.741, 90.7131, -191.087 ],
+					[ 246.628, 153.673, -191.324 ],
+					[ 245.741, 154.139, -191.087 ],
+					[ 292.526, 153.673, -146.221 ],
+					[ 292.304, 154.139, -145.33 ],
+					[ 292.304, 90.7131, -145.33 ],
+					[ 292.526, 91.1794, -146.221 ],
+					[ 292.24, 90.8974, -145.528 ],
+					[ 245.941, 90.8974, -191.027 ],
+					[ 292.259, 91.0475, -145.761 ],
+					[ 246.173, 91.0475, -191.049 ],
+					[ 292.358, 91.1454, -146.002 ],
+					[ 246.412, 91.1454, -191.153 ],
+					[ 245.941, 153.955, -191.027 ],
+					[ 246.173, 153.805, -191.049 ],
+					[ 246.412, 153.707, -191.153 ],
+					[ 292.24, 153.955, -145.528 ],
+					[ 292.259, 153.805, -145.761 ],
+					[ 292.358, 153.707, -146.002 ],
+					[ 245.898, 90.2368, -192.647 ],
+					[ 245.898, 154.615, -192.647 ],
+					[ 293.861, 154.615, -145.513 ],
+					[ 293.861, 90.2368, -145.513 ],
+					[ 251.347, 97.87681, -187.292 ],
+					[ 251.347, 146.975, -187.292 ],
+					[ 288.412, 146.975, -150.868 ],
+					[ 288.412, 97.87681, -150.868 ]
+				]
+			},
+			"polygon_groups" : {
+				"count" : 1,
+				"values" : [
+					"Default"
+				]
+			},
+			"polygon_material_groups" : {
+				"count" : 3,
+				"values" : [
+					"Picture",
+					"white",
+					"frame"
+				]
+			},
+			"polylist" : {
+				"count" : 57,
+				"values" : [
+					[ 0, 0, 60, 63, 62, 61 ],
+					[ 0, 1, 56, 59, 63, 60 ],
+					[ 0, 1, 59, 58, 62, 63 ],
+					[ 0, 1, 58, 57, 61, 62 ],
+					[ 0, 1, 57, 56, 60, 61 ],
+					[ 0, 2, 13, 15, 38, 36 ],
+					[ 0, 2, 15, 14, 40, 38 ],
+					[ 0, 2, 14, 12, 43, 40 ],
+					[ 0, 2, 12, 13, 36, 43 ],
+					[ 0, 2, 1, 0, 4, 5 ],
+					[ 0, 2, 0, 3, 7, 4 ],
+					[ 0, 2, 3, 2, 6, 7 ],
+					[ 0, 2, 2, 1, 5, 6 ],
+					[ 0, 2, 16, 8, 11, 23 ],
+					[ 0, 2, 23, 11, 10, 21 ],
+					[ 0, 2, 21, 10, 9, 19 ],
+					[ 0, 2, 19, 9, 8, 16 ],
+					[ 0, 2, 4, 7, 11, 8 ],
+					[ 0, 2, 7, 6, 10, 11 ],
+					[ 0, 2, 6, 5, 9, 10 ],
+					[ 0, 2, 5, 4, 8, 9 ],
+					[ 0, 2, 41, 42, 22, 20 ],
+					[ 0, 2, 39, 41, 20, 18 ],
+					[ 0, 2, 37, 39, 18, 17 ],
+					[ 0, 2, 42, 37, 17, 22 ],
+					[ 0, 2, 19, 16, 24, 25 ],
+					[ 0, 2, 25, 24, 26, 27 ],
+					[ 0, 2, 27, 26, 28, 29 ],
+					[ 0, 2, 29, 28, 17, 18 ],
+					[ 0, 2, 21, 19, 25, 30 ],
+					[ 0, 2, 30, 25, 27, 31 ],
+					[ 0, 2, 31, 27, 29, 32 ],
+					[ 0, 2, 32, 29, 18, 20 ],
+					[ 0, 2, 23, 21, 30, 33 ],
+					[ 0, 2, 33, 30, 31, 34 ],
+					[ 0, 2, 34, 31, 32, 35 ],
+					[ 0, 2, 35, 32, 20, 22 ],
+					[ 0, 2, 16, 23, 33, 24 ],
+					[ 0, 2, 24, 33, 34, 26 ],
+					[ 0, 2, 26, 34, 35, 28 ],
+					[ 0, 2, 28, 35, 22, 17 ],
+					[ 0, 2, 37, 42, 44, 45 ],
+					[ 0, 2, 45, 44, 46, 47 ],
+					[ 0, 2, 47, 46, 48, 49 ],
+					[ 0, 2, 49, 48, 43, 36 ],
+					[ 0, 2, 39, 37, 45, 50 ],
+					[ 0, 2, 50, 45, 47, 51 ],
+					[ 0, 2, 51, 47, 49, 52 ],
+					[ 0, 2, 52, 49, 36, 38 ],
+					[ 0, 2, 41, 39, 50, 53 ],
+					[ 0, 2, 53, 50, 51, 54 ],
+					[ 0, 2, 54, 51, 52, 55 ],
+					[ 0, 2, 55, 52, 38, 40 ],
+					[ 0, 2, 42, 41, 53, 44 ],
+					[ 0, 2, 44, 53, 54, 46 ],
+					[ 0, 2, 46, 54, 55, 48 ],
+					[ 0, 2, 48, 55, 40, 43 ]
+				]
+			},
+			"default_uv_set" : "/data/Fugazi1968/FG%20Therapy/FGT%20Picture/UV%20Sets/Fugazi1968/Base/default.dsf#default",
+			"extra" : [
+				{
+					"type" : "studio_geometry_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "SubDIALevel",
+								"type" : "int",
+								"label" : "View SubD Level",
+								"visible" : false,
+								"value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDRenderLevel",
+								"type" : "int",
+								"label" : "Render SubD Level (Minimum)",
+								"visible" : false,
+								"value" : 0,
+								"min" : 0,
+								"max" : 3,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDAlgorithmControl",
+								"type" : "enum",
+								"label" : "SubDivision Algorithm",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Catmark", "Bilinear", "Loop", "Catmull-Clark (Legacy)" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDEdgeInterpolateLevel",
+								"type" : "enum",
+								"label" : "Edge Interpolation",
+								"visible" : false,
+								"value" : 2,
+								"enum_values" : [ "Soft Corners And Edges", "Sharp Edges and Corners", "Sharp Edges" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDNormalSmoothing",
+								"type" : "enum",
+								"label" : "SubDivision Normals",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Smoothed", "Preserve Cage" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						}
+					]
+				}
+			]
+		}
+	],
+	"node_library" : [
+		{
+			"id" : "FGT Picture",
+			"name" : "FGT Picture",
+			"type" : "node",
+			"label" : "FGT Picture",
+			"rotation_order" : "YXZ",
+			"inherits_scale" : true,
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : 271.5895,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : 87.0235,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : -170.816,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : 271.5895,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : 157.829,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : -170.816,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"extra" : [
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Disable Transform",
+								"type" : "bool",
+								"label" : "Disable Transform",
+								"visible" : false,
+								"value" : false
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible in Simulation",
+								"type" : "bool",
+								"label" : "Visible in Simulation",
+								"value" : true
+							},
+							"group" : "/Display/Simulation"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						}
+					]
+				}
+			]
+		}
+	]
+}
