@@ -1,0 +1,45 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/i13/Therapist%20Office/i13TO%20Ceiling/UV%20Sets/i13/Base/default.dsf",
+		"type" : "uv_set",
+		"contributor" : {
+			"author" : "i13",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-05-15T02:08:41Z"
+	},
+	"uv_set_library" : [
+		{
+			"id" : "default",
+			"name" : "default",
+			"label" : "Default UVs",
+			"vertex_count" : 8,
+			"uvs" : {
+				"count" : 8,
+				"values" : [
+					[ 0.0734715, 0 ],
+					[ 0.926529, 0 ],
+					[ 0.926529, 1 ],
+					[ 0.0734715, 1 ],
+					[ 0.07860521, 0.00513364 ],
+					[ 0.921395, 0.00513364 ],
+					[ 0.921395, 0.9948661 ],
+					[ 0.07860521, 0.9948661 ]
+				]
+			},
+			"polygon_vertex_indices" : [
+			]
+		}
+	],
+	"scene" : {
+		"uvs" : [
+			{
+				"id" : "default-1",
+				"url" : "#default"
+			}
+		]
+	}
+}

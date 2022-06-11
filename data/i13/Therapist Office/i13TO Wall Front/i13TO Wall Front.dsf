@@ -1,0 +1,467 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/i13/Therapist%20Office/i13TO%20Wall%20Front/i13TO%20Wall%20Front.dsf",
+		"type" : "prop",
+		"contributor" : {
+			"author" : "i13",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2016-05-15T02:11:25Z"
+	},
+	"geometry_library" : [
+		{
+			"id" : "i13TO Wall Front-1",
+			"name" : "i13TO Wall Front",
+			"type" : "polygon_mesh",
+			"vertices" : {
+				"count" : 46,
+				"values" : [
+					[ -245.791, 9.97864, -329.184 ],
+					[ 260.421, 9.97864, -329.184 ],
+					[ -245.791, 301.882, -329.184 ],
+					[ 260.421, 301.882, -329.184 ],
+					[ -244.525, 0.225043, -327.546 ],
+					[ 259.156, 0.225043, -327.546 ],
+					[ -245.791, 9.97864, -329.184 ],
+					[ 260.421, 9.97864, -329.184 ],
+					[ -244.525, 9.57224, -327.546 ],
+					[ -244.763, 9.97864, -327.855 ],
+					[ 259.156, 9.57224, -327.546 ],
+					[ 259.394, 9.97864, -327.855 ],
+					[ -244.672, 9.947701, -327.737 ],
+					[ 259.303, 9.947701, -327.737 ],
+					[ -244.595, 9.859611, -327.637 ],
+					[ 259.225, 9.859611, -327.637 ],
+					[ -244.543, 9.727761, -327.57 ],
+					[ 259.174, 9.727761, -327.57 ],
+					[ -242.755, 301.679, -325.811 ],
+					[ 257.385, 301.679, -325.811 ],
+					[ -246.08, 294.573, -329.506 ],
+					[ 260.711, 294.573, -329.506 ],
+					[ -242.856, 294.764, -325.923 ],
+					[ -243.12, 294.375, -326.217 ],
+					[ 257.486, 294.764, -325.923 ],
+					[ 257.751, 294.375, -326.217 ],
+					[ -242.878, 294.611, -325.948 ],
+					[ 257.508, 294.611, -325.948 ],
+					[ -242.936, 294.482, -326.012 ],
+					[ 257.567, 294.482, -326.012 ],
+					[ -243.021, 294.4, -326.107 ],
+					[ 257.652, 294.4, -326.107 ],
+					[ 7.315191, 9.947701, -327.737 ],
+					[ 7.315191, 9.97864, -327.855 ],
+					[ 7.315191, 9.859611, -327.637 ],
+					[ 7.315191, 9.727761, -327.57 ],
+					[ 7.315191, 9.57224, -327.546 ],
+					[ 7.315191, 0.225043, -327.546 ],
+					[ 7.315191, 9.97864, -329.184 ],
+					[ 7.31521, 294.764, -325.923 ],
+					[ 7.31521, 294.611, -325.948 ],
+					[ 7.315191, 294.482, -326.012 ],
+					[ 7.315191, 294.4, -326.107 ],
+					[ 7.31521, 294.375, -326.217 ],
+					[ 7.31521, 301.679, -325.811 ],
+					[ 7.315191, 294.573, -329.506 ]
+				]
+			},
+			"polygon_groups" : {
+				"count" : 1,
+				"values" : [
+					"Default"
+				]
+			},
+			"polygon_material_groups" : {
+				"count" : 2,
+				"values" : [
+					"Default",
+					"molding"
+				]
+			},
+			"polylist" : {
+				"count" : 25,
+				"values" : [
+					[ 0, 0, 1, 3, 2, 0 ],
+					[ 0, 1, 12, 32, 33, 9 ],
+					[ 0, 1, 32, 13, 11, 33 ],
+					[ 0, 1, 14, 34, 32, 12 ],
+					[ 0, 1, 34, 15, 13, 32 ],
+					[ 0, 1, 16, 35, 34, 14 ],
+					[ 0, 1, 35, 17, 15, 34 ],
+					[ 0, 1, 8, 36, 35, 16 ],
+					[ 0, 1, 36, 10, 17, 35 ],
+					[ 0, 1, 4, 37, 36, 8 ],
+					[ 0, 1, 37, 5, 10, 36 ],
+					[ 0, 1, 9, 33, 38, 6 ],
+					[ 0, 1, 33, 11, 7, 38 ],
+					[ 0, 1, 24, 39, 40, 27 ],
+					[ 0, 1, 39, 22, 26, 40 ],
+					[ 0, 1, 27, 40, 41, 29 ],
+					[ 0, 1, 40, 26, 28, 41 ],
+					[ 0, 1, 29, 41, 42, 31 ],
+					[ 0, 1, 41, 28, 30, 42 ],
+					[ 0, 1, 31, 42, 43, 25 ],
+					[ 0, 1, 42, 30, 23, 43 ],
+					[ 0, 1, 19, 44, 39, 24 ],
+					[ 0, 1, 44, 18, 22, 39 ],
+					[ 0, 1, 25, 43, 45, 21 ],
+					[ 0, 1, 43, 23, 20, 45 ]
+				]
+			},
+			"default_uv_set" : "/data/i13/Therapist%20Office/i13TO%20Wall%20Front/UV%20Sets/i13/Base/default.dsf#default",
+			"extra" : [
+				{
+					"type" : "studio_geometry_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "SubDIALevel",
+								"type" : "int",
+								"label" : "View SubD Level",
+								"visible" : false,
+								"value" : 1,
+								"min" : 0,
+								"max" : 2,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDRenderLevel",
+								"type" : "int",
+								"label" : "Render SubD Level (Minimum)",
+								"visible" : false,
+								"value" : 0,
+								"min" : 0,
+								"max" : 3,
+								"clamped" : true,
+								"step_size" : 1
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDAlgorithmControl",
+								"type" : "enum",
+								"label" : "SubDivision Algorithm",
+								"visible" : false,
+								"value" : 0,
+								"enum_values" : [ "Catmark", "Bilinear", "Loop", "Catmull-Clark (Legacy)" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						},
+						{
+							"channel" : {
+								"id" : "SubDEdgeInterpolateLevel",
+								"type" : "enum",
+								"label" : "Edge Interpolation",
+								"visible" : false,
+								"value" : 2,
+								"enum_values" : [ "Soft Corners And Edges", "Sharp Edges and Corners", "Sharp Edges" ]
+							},
+							"group" : "/General/Mesh Resolution"
+						}
+					]
+				}
+			]
+		}
+	],
+	"node_library" : [
+		{
+			"id" : "i13TO Wall Front",
+			"name" : "i13TO Wall Front",
+			"type" : "node",
+			"label" : "i13TO Wall Front",
+			"rotation_order" : "YXZ",
+			"inherits_scale" : true,
+			"center_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrigin",
+					"label" : "X Origin",
+					"visible" : false,
+					"value" : 7.315491,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrigin",
+					"label" : "Y Origin",
+					"visible" : false,
+					"value" : 0.225043,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrigin",
+					"label" : "Z Origin",
+					"visible" : false,
+					"value" : -327.6585,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"end_point" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xEnd",
+					"label" : "X End",
+					"visible" : false,
+					"value" : 7.315491,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yEnd",
+					"label" : "Y End",
+					"visible" : false,
+					"value" : 301.882,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zEnd",
+					"label" : "Z End",
+					"visible" : false,
+					"value" : -327.6585,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"orientation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "xOrientation",
+					"label" : "X Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "yOrientation",
+					"label" : "Y Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "zOrientation",
+					"label" : "Z Orientation",
+					"visible" : false,
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.01
+				}
+			],
+			"rotation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XRotate",
+					"label" : "X Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YRotate",
+					"label" : "Y Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZRotate",
+					"label" : "Z Rotate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 0.5
+				}
+			],
+			"translation" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XTranslate",
+					"label" : "X Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YTranslate",
+					"label" : "Y Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZTranslate",
+					"label" : "Z Translate",
+					"value" : 0,
+					"min" : -10000,
+					"max" : 10000,
+					"step_size" : 1
+				}
+			],
+			"scale" : [
+				{
+					"id" : "x",
+					"type" : "float",
+					"name" : "XScale",
+					"label" : "X Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "y",
+					"type" : "float",
+					"name" : "YScale",
+					"label" : "Y Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				},
+				{
+					"id" : "z",
+					"type" : "float",
+					"name" : "ZScale",
+					"label" : "Z Scale",
+					"value" : 1,
+					"min" : -10000,
+					"max" : 10000,
+					"display_as_percent" : true,
+					"step_size" : 0.005
+				}
+			],
+			"general_scale" : {
+				"id" : "general_scale",
+				"type" : "float",
+				"name" : "Scale",
+				"label" : "Scale",
+				"value" : 1,
+				"min" : -10000,
+				"max" : 10000,
+				"display_as_percent" : true,
+				"step_size" : 0.005
+			},
+			"extra" : [
+				{
+					"type" : "studio_node_channels",
+					"channels" : [
+						{
+							"channel" : {
+								"id" : "Point At",
+								"type" : "numeric_node",
+								"label" : "Point At",
+								"value" : 1,
+								"min" : 0,
+								"max" : 1,
+								"clamped" : true,
+								"step_size" : 0.01,
+								"needs_node" : true,
+								"node" : null
+							},
+							"group" : "/General/Misc"
+						},
+						{
+							"channel" : {
+								"id" : "Renderable",
+								"type" : "bool",
+								"label" : "Visible in Render",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Cast Shadows",
+								"type" : "bool",
+								"label" : "Cast Shadows",
+								"value" : true
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Render Priority",
+								"type" : "enum",
+								"label" : "Render Priority",
+								"visible" : false,
+								"value" : 3,
+								"enum_values" : [ "Lowest", "Low", "Below Normal", "Normal", "Above Normal", "High", "Highest" ]
+							},
+							"group" : "/Display/Rendering"
+						},
+						{
+							"channel" : {
+								"id" : "Visible",
+								"type" : "bool",
+								"label" : "Visible",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						},
+						{
+							"channel" : {
+								"id" : "Selectable",
+								"type" : "bool",
+								"label" : "Selectable",
+								"value" : true
+							},
+							"group" : "/Display/Scene View"
+						}
+					]
+				}
+			]
+		}
+	]
+}
