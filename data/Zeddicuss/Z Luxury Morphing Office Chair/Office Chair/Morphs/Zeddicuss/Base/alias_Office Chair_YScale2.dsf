@@ -1,0 +1,44 @@
+{
+	"file_version" : "0.6.0.0",
+	"asset_info" : {
+		"id" : "/data/Zeddicuss/Z Luxury Morphing Office Chair/Office%20Chair/Morphs/Zeddicuss/Base/alias_Office%20Chair_YScale2.dsf",
+		"type" : "modifier",
+		"contributor" : {
+			"author" : "risa.kb3",
+			"email" : "",
+			"website" : ""
+		},
+		"revision" : "1.0",
+		"modified" : "2021-09-16T11:11:01Z"
+	},
+	"modifier_library" : [
+		{
+			"id" : "YScale2",
+			"name" : "YScale2",
+			"parent" : "/data/Zeddicuss/Z Luxury Morphing Office Chair/Office%20Chair/Office%20Chair.dsf#Office%20Chair",
+			"presentation" : {
+				"type" : "Modifier/Pose",
+				"label" : "",
+				"description" : "",
+				"icon_large" : "",
+				"colors" : [ [ 0.3529412, 0.3529412, 0.3529412 ], [ 1, 1, 1 ] ]
+			},
+			"channel" : {
+				"id" : "value",
+				"type" : "alias",
+				"name" : "YScale2",
+				"label" : "Chair_Back_Height",
+				"target_channel" : "Chair_Back:/data/Zeddicuss/Z Luxury Morphing Office Chair/Office%20Chair/Office%20Chair.dsf#Chair_Back?scale/y"
+			},
+			"group" : "/General/Transforms/Scale"
+		}
+	],
+	"scene" : {
+		"modifiers" : [
+			{
+				"id" : "YScale2-1",
+				"url" : "#YScale2"
+			}
+		]
+	}
+}
